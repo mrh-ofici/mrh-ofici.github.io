@@ -4,7 +4,7 @@ The important is the process the end is consequence ~Barnaby Jack
 
 ## Demo
 
-giphy.gif
+<img src="https://github.com/mrh-ofici/mrh-ofici.github.io/blob/main/giphy.gif" width="40" height="40" />
 
 ## Links
 [winbox.js](https://github.com/nextapps-de/winbox)
