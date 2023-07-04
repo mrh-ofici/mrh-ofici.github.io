@@ -1,23 +1,14 @@
-
-#  terminal-portfolio
-
-Make a terminal like a Portfolio website, hacker portfolio, or dev portfolio. 
-
-A portfolio is a very important thing for personal branding. It will help you to describe yourself to other people, But an ordinary website can make and use by everyone. so What is The difference between a Geek and common people?
+# My PORTFOLIO
 
 ## Demo
 
-Insert gif or link to demo
-
-  
-## Screenshots
-
-![App Screenshot](https://github.com/naemazam/terminal-portfolio/blob/main/img/trm.PNG)
+[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
-## Youtube Tutorial 
 
-https://youtu.be/_hreXt6mqnw 
+
+
+
 
   
 ## Links
@@ -31,9 +22,4 @@ https://youtu.be/_hreXt6mqnw
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
 
-Please adhere to this project's `code of conduct`.
-
-  ## License
-MIT
