@@ -1,6 +1,7 @@
 # My PORTFOLIO
+### The important is the process the end is consequence ~Barnaby Jack
 <img src="https://github.com/mrh-ofici/mrh-ofici.github.io/blob/main/the-lich.gif" width="400" height="400" />
-The important is the process the end is consequence ~Barnaby Jack
+
 
 <img src="https://github.com/mrh-ofici/mrh-ofici.github.io/blob/main/mario-games.gif" width="700" height="700" />
 
