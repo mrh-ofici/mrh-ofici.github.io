@@ -4,7 +4,7 @@ The important is the process the end is consequence ~Barnaby Jack
 
 ## Demo
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XcAskcEyoyld03drLt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fcbarcelona-XcAskcEyoyld03drLt"
+<iframe src="https://giphy.com/embed/XcAskcEyoyld03drLt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fcbarcelona-XcAskcEyoyld03drLt">
 
 ## Links
 [winbox.js](https://github.com/nextapps-de/winbox)
